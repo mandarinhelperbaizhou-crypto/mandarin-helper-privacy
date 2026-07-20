@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Mandarin Helper</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+            background: #1a1a2e;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+            border-top: 6px solid #FFD700;
+        }
+        h1 {
+            color: #8B0000;
+            border-bottom: 3px solid #FFD700;
+            padding-bottom: 10px;
+            font-size: 28px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        h1 .icon {
+            font-size: 32px;
+        }
+        h2 {
+            color: #8B0000;
+            margin-top: 30px;
+            font-size: 20px;
+            border-left: 4px solid #FFD700;
+            padding-left: 12px;
+        }
+        p, li {
+            color: #444;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .last-updated {
+            color: #888;
+            font-style: italic;
+            margin-top: 40px;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+        .contact {
+            background: #fdf6ec;
+            padding: 15px 20px;
+            border-radius: 8px;
+            border-left: 4px solid #FFD700;
+            margin: 20px 0;
+        }
+        .contact a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        .highlight {
+            color: #c0392b;
+            font-weight: bold;
+        }
+        .badge {
+            display: inline-block;
+            background: #27ae60;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-right: 8px;
+        }
+        .badge-yellow {
+            background: #f39c12;
+        }
+        .badge-red {
+            background: #8B0000;
+        }
+        .summary-box {
+            background: #f0f7ff;
+            padding: 15px 20px;
+            border-radius: 8px;
+            border-left: 4px solid #27ae60;
+            margin: 20px 0;
+        }
+        .app-name {
+            color: #8B0000;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+        }
+        .footer a {
+            color: #8B0000;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        .emoji {
+            font-size: 18px;
+            margin-right: 6px;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 22px;
+            }
+            body {
+                margin: 10px;
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>
+            <span class="icon">📱</span> Privacy Policy
+        </h1>
+        <p style="color: #8B0000; font-weight: bold; font-size: 18px;">Mandarin Helper</p>
+        <p><strong>Last Updated:</strong> <span id="date"></span></p>
+
+        <div class="summary-box">
+            <p><strong>🔒 Quick Summary:</strong> Mandarin Helper does <strong>NOT</strong> collect, store, or share any personal data. All your progress is saved <strong>locally on your device</strong>.</p>
+        </div>
+
+        <h2>1. Information We Collect</h2>
+        <p><span class="badge">✅</span> We collect <strong>NO</strong> personal information.</p>
+        <p>Your app usage, vocabulary progress, and settings are stored <strong>only on your device</strong>. We never have access to your data.</p>
+
+        <h2>2. How We Use Your Information</h2>
+        <p>Since we don't collect any information, there's nothing to use. All data stays on your device and is never transmitted anywhere.</p>
+
+        <h2>3. Third-Party Services</h2>
+        <p>We use the following third-party service for purchases:</p>
+        <ul>
+            <li><strong>Google Play Billing</strong> - Handles in-app purchases securely. Google may collect payment information, but we <strong>do not</strong> have access to your payment details.</li>
+        </ul>
+        <p>No other third-party services are used. No analytics, no tracking, no advertising networks.</p>
+
+        <h2>4. Data Storage</h2>
+        <p>All your data is stored <strong>locally</strong> on your device in a file called <code>player_data.save</code>:</p>
+        <ul>
+            <li>📝 Vocabulary progress and points</li>
+            <li>⭐ Mastered and Brilliant words</li>
+            <li>🛒 Purchase history</li>
+            <li>⚙️ App settings (sound, dark mode, shuffle)</li>
+            <li>📚 Bookmarked words (if added)</li>
+        </ul>
+        <p><span class="highlight">No data is ever sent to our servers or any third party.</span></p>
+
+        <h2>5. Children's Privacy</h2>
+        <p>Mandarin Helper is suitable for learners of all ages. We do not:</p>
+        <ul>
+            <li>❌ Collect personal information from children</li>
+            <li>❌ Target advertising to children</li>
+            <li>❌ Share any data with third parties</li>
+            <li>❌ Require accounts or logins</li>
+        </ul>
+
+        <h2>6. Your Rights</h2>
+        <p>Since we don't collect any data, there's nothing to:</p>
+        <ul>
+            <li>❌ Access</li>
+            <li>❌ Delete</li>
+            <li>❌ Export</li>
+            <li>❌ Correct</li>
+        </ul>
+        <p>All your data stays with you, on your device. You can clear it at any time by uninstalling the app or deleting the save file from your device's storage.</p>
+
+        <h2>7. Permissions</h2>
+        <p>Mandarin Helper does <strong>not</strong> require any special permissions (camera, microphone, contacts, location, etc.).</p>
+        <ul>
+            <li>✅ Internet permission - Only used for in-app purchases</li>
+            <li>✅ Storage permission - Only used to save progress locally</li>
+        </ul>
+
+        <h2>8. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy occasionally. Check back for changes.</p>
+
+        <h2>9. Contact Us</h2>
+        <div class="contact">
+            <p><strong>📧 Email:</strong> <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a></p>
+            <p><strong>📱 App:</strong> Mandarin Helper</p>
+        </div>
+
+        <div class="last-updated">
+            <p>© 2024 Mandarin Helper. All rights reserved.</p>
+            <p><span class="badge badge-yellow">🔒</span> Privacy-first design: Your data stays yours.</p>
+        </div>
+
+        <div class="footer">
+            <p>Made with ❤️ for Chinese learners everywhere.</p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('date').textContent = new Date().toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+        });
+    </script>
+</body>
+</html>
